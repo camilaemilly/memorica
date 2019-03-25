@@ -1,2 +1,3 @@
 # memorica
-Jogo da memória
+Para instalar as dependências: npm install
+Para inicializar a aplicação: quasar dev
